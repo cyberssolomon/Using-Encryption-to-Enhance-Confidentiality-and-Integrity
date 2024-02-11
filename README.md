@@ -104,8 +104,18 @@ Show the decrypted secret-message.txt file in Notepad:  <br/>
 <p align="center">
 Show the instructor's key pair files: <br/>
 <img src="" height="80%" width="80%" alt="Section 1 Steps"/>
-<br />
-<br />
+
+<h2>Encrypt a File Using Symmetric Encryption:</h2>
+
+
+
+
+
+
+
+
+
+<p align="center">
 Document the password you used to symmetrically encrypt the file:  <br/>
 <img src="" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
