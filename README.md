@@ -48,7 +48,7 @@ Show Alice's public key in my certificate:  <br/>
 <img src="" height="80%" width="80%" alt="Section 1 Steps"/>
 
  
-    <h2>Encrypt a File Using Asymmetric Encryption:</h2>
+<h2>Encrypt a File Using Asymmetric Encryption:</h2>
 
 
 
