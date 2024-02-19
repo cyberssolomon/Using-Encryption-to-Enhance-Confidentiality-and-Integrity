@@ -103,7 +103,7 @@ Show the decrypted secret-message.txt file in Notepad:  <br/>
 
 <p align="center">
 Show the instructor's key pair files: <br/>
-<img src="https://i.imgur.com/y8inXIV.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/y8inXIV.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 <h2>Encrypt a File Using Symmetric Encryption:</h2>
 
@@ -117,15 +117,15 @@ Show the instructor's key pair files: <br/>
 
 <p align="center">
 Document the password you used to symmetrically encrypt the file:  <br/>
-<img src="https://i.imgur.com/mAwCjMX.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/mAwCjMX.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the ciphertext in the secretmesssage_ENCRYPTED.txt file:  <br/>
-<img src="https://i.imgur.com/LCONNWX.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/LCONNWX.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the output of the ls command:  <br/>
-<img src="https://i.imgur.com/5uzCRPK.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/5uzCRPK.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
  <h2>Transfer and Decrypt a File Using Hybrid Cryptology:</h2>
@@ -141,15 +141,15 @@ Show the output of the ls command:  <br/>
 
 <p align="center">
 Show the encrypted contents of the secretkey_ENCRYPTED.txt file: <br/>
-<img src="https://i.imgur.com/R9S0e55.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/R9S0e55.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the decrypted contents of the secretkey_DECRYPTED.txt file:  <br/>
-<img src="https://i.imgur.com/T1jpgGS.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/T1jpgGS.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the contents of the secretmesssage_DECRYPTED file:  <br/>
-<img src="https://i.imgur.com/fdY7ykw.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/fdY7ykw.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
 
@@ -168,11 +168,11 @@ Show the contents of the secretmesssage_DECRYPTED file:  <br/>
 
 <p align="center">
 Show the key fingerprint for the key pair generated: <br/>
-<img src="https://i.imgur.com/i6S4bb8.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/i6S4bb8.png" height="80%" width="80%" alt="Section 3 Steps"/>
 <br />
 <br />
 Show the contents of the unsignedmessage,txt file: <br/>
-<img src="https://i.imgur.com/62yzJta.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/62yzJta.png" height="80%" width="80%" alt="Section 3 Steps"/>
 
 
  
